@@ -53,7 +53,7 @@ Run the index.html file in any web browser.
 
 Example:
 
-git clone https://github.com/your-username/todo-web-app.git
+git clone https://krishnakoushikgoudkammagoni.github.io/A-BASIC-TO-DO-WEBAPP
 📌 Future Improvements
 
 Add task deadlines
